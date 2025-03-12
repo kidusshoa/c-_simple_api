@@ -9,7 +9,7 @@
         "/usr/local/include",
         "/usr/include/mysql",
         "/usr/include/boost",
-        "/usr/include/crow"
+        "/usr/local/include/crow"
       ],
       "defines": [],
       "compilerPath": "/usr/bin/gcc",
